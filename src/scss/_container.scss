@@ -1,0 +1,12 @@
+@for $i from 1 through 9 {
+  $base: 10;
+  $size: ($base * $i) / 10;
+  .container-#{$size} {
+    max-width: $size * 10 + 0% !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .container-mobile{
+    max-width:100% !important;
+  }
+}

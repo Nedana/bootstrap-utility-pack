@@ -1,0 +1,61 @@
+.c-pointer {
+  cursor: pointer !important; }
+
+.c-grab {
+  cursor: -webkit-grab !important;
+  cursor: -moz-grab !important;
+  cursor: grab !important; }
+
+.fw-3 {
+  font-weight: 300 !important; }
+
+.fw-5 {
+  font-weight: 500 !important; }
+
+.fw-7 {
+  font-weight: 700 !important; }
+
+.center-content {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+     -moz-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.container-1 {
+  max-width: 10% !important; }
+
+.container-2 {
+  max-width: 20% !important; }
+
+.container-3 {
+  max-width: 30% !important; }
+
+.container-4 {
+  max-width: 40% !important; }
+
+.container-5 {
+  max-width: 50% !important; }
+
+.container-6 {
+  max-width: 60% !important; }
+
+.container-7 {
+  max-width: 70% !important; }
+
+.container-8 {
+  max-width: 80% !important; }
+
+.container-9 {
+  max-width: 90% !important; }
+
+@media only screen and (max-width: 768px) {
+  .container-mobile {
+    max-width: 100% !important; } }
