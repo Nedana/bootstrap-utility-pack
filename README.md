@@ -1,4 +1,4 @@
-# Bootstrap FastML
+# Bootstrap Utility Pack
 Additional utility classes for Bootstrap 4
 
 ## Classes
@@ -12,6 +12,11 @@ Additional utility classes for Bootstrap 4
 ### Cursor
 * `c-pointer` - cursor: pointer;
 * `c-grab` - cursor: grab;
+### Space sizing
+* `mh-mc` - min-height: min-content;
+* `mh-75` - min-height: 75%;
+* `mh-50` - min-height: 50%;
+* `mh-25` - min-height: 25%;
 ### Shortcuts
 * `center-content` - display:flex; justify-content:center; align-items: center;
 
