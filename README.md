@@ -17,6 +17,11 @@ Additional utility classes for Bootstrap 4
 * `mh-75` - min-height: 75%;
 * `mh-50` - min-height: 50%;
 * `mh-25` - min-height: 25%;
+### Display
+* `d-sm-inline-block` - display: inline-block; on `sm` breakpoint
+* `d-md-inline-block` - display: inline-block; on `md` breakpoint
+* `d-lg-inline-block` - display: inline-block; on `lg` breakpoint
+* `d-xl-inline-block` - display: inline-block; on `xl` breakpoint
 ### Shortcuts
 * `center-content` - display:flex; justify-content:center; align-items: center;
 

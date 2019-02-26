@@ -1,0 +1,8 @@
+@each $name, $size in $breakpoints {
+  @media (min-width: $size){
+    .d-#{$name}-inline-block {
+      display: inline-block !important;
+    }
+  }
+}
+
